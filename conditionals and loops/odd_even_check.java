@@ -8,7 +8,7 @@ public class odd_even_check {
         if (n % 2 == 0) {
             System.out.println("no is a even number");
         } else {
-            System.err.println("no is an odd number");
+            System.out.println("no is an odd number");
         }
     }
     
